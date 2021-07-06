@@ -1,0 +1,25 @@
+.user-login{
+    text-align: center;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    h2{
+        color: #4ea3a3;
+    }
+    .user-control{
+        margin-top: 15px;
+        width: 260px;
+        height: 50px;
+        display: flex;
+        margin-left: 40%;
+    }
+    button{
+        width: 150px;
+        background-color: #4ea3a3;
+        margin-top: 15px;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+
+    }
+}

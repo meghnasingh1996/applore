@@ -1,0 +1,39 @@
+.dashboard-container{
+    margin-top: 20px;
+    button{
+    width: 100px;
+    background-color: #4ea3a3;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-left: 90%;
+    }
+}
+
+.dialog-control{
+    width: 400px;
+    textarea{
+    height: 118px; 
+    margin-top: 10px;
+    padding-left: 10px;
+    border: none;
+    }
+    input{
+        margin-bottom: 10px;
+        border: none;
+        padding-left: 10px;
+    }
+}
+.custom-button{
+    align-items: center;
+    button{
+        background-color: #4ea3a3;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+        margin-left: 20%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+}
